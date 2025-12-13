@@ -1,22 +1,21 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        // ヒント1: マイナスの数は絶対に回文になりません
-        if (x < 0) {
+        if(x<0)
             return false;
+
+        
+        string s = to_string(x);
+        string check = s;
+        int n = s.length();
+       
+        string reversed5 = s;
+        for(int i =0; i< n/2;i++){
+            swap(check[i],check[n-i-1]);
         }
 
-        // ヒント2: 整数 x を文字列に変換する
-        // C++では to_string(x) という便利な魔法があります
-        string s = to_string(x);
-
-        // ヒント3: 文字列 s をひっくり返した新しい文字列 reversedS を作る
-        // reverse関数を使うか、自分でfor文で作ってみよう
-        string reversedS = s;
-        reverse(reversedS.begin(), reversedS.end());
-
         // ヒント4: 元の s と reversedS が同じなら true, 違えば false
-        if (s == reversedS) {
+        if (s == check) {
             return true;
         } else {
             return false;
