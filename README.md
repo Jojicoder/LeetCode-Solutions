@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
