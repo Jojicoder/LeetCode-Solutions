@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1929-concatenation-of-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
