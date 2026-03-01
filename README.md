@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
