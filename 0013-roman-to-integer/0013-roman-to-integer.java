@@ -1,70 +1,25 @@
 class Solution {
     public int romanToInt(String s) {
-        int ans=0,tmp =0;
-        int[] as= new int[s.length()];
-        char[] arr = s.toCharArray();
+       Map<Character,Integer> map = new HashMap<>();
+       map.put('I',1);
+       map.put('V',5);
+       map.put('X',10);
+       map.put('L',50);
+       map.put('C',100);
+       map.put('D',500);
+       map.put('M',1000);
+        int ans =0;
+       for(int i =0; i < s.length();i++){
+        int curr = map.get(s.charAt(i));
+        int next = (i+1 < s.length()) ? map.get(s.charAt(i+1))  :0;
+        if(curr < next){
+            ans-= curr;
+        }else
+            ans += curr;
 
-        for(int i =0;i < s.length();i++){
-            switch(arr[i]){
-            case 'I' :
-                as[i] = 1;
-                break;
-            case 'V' :
-                as[i] =5;
-                break;
-            case 'X' :
-                as[i] =10;
-                break;
-            case 'L' :
-                as[i] =50;
-                break;
-            case 'C' :
-                as[i] =100;
-                break;
-            case 'D' :
-                as[i] =500;
-                break;
-            case 'M' :
-                 as[i] = 1000;
-                break;
-                }
-        }
-        for(int i =0;i < s.length();i++){
-        switch(arr[i]){
-            case 'I' :
-                ans += 1;
-                tmp = 1;
-                break;
-            case 'V' :
-                ans += 5;
-                tmp =5;
-                break;
-            case 'X' :
-                ans += 10;
-                tmp =10;
-                break;
-            case 'L' :
-                ans += 50;
-                tmp =50;
-                break;
-            case 'C' :
-                ans += 100;
-                tmp = 100;
-                break;
-            case 'D' :
-                ans += 500;
-                tmp =500;
-                break;
-            case 'M' :
-                ans += 1000;
-                tmp =1000;
-                break;
-        }
-        if(i+1<s.length()&&as[i]<as[i+1])
-        {
-            ans -= tmp*2;
-        }
-        }
+       }
         return ans;
+
+
     }
 }
