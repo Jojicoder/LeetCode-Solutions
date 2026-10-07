@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1480-running-sum-of-1d-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
 |  |
 | ------- |
