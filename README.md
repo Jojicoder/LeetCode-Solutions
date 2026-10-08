@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
