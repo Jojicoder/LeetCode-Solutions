@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1480-running-sum-of-1d-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
