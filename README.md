@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
@@ -131,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
