@@ -13,10 +13,6 @@ public:
                 }
             }
 
-            for(int n : nums)
-            {
-                cout << n << endl;
-            }
             
         }
 };
