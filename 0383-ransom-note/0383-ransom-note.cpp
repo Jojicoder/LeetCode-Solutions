@@ -1,21 +1,22 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-    
+    unordered_map<char,int> count;
 
-    for(char ch:magazine){
-     size_t pos = ransomNote.find(ch);
-    // 2. 見つかったら（npos でなければ）1文字削除
-    if (pos != std::string::npos) {
-        ransomNote.erase(pos, 1); // pos の位置から 1文字 削除
+    for(char ch:magazine)
+    {
+            count[ch]++;
     }
-
-    if(ransomNote.empty())
+    
+    for(char ch:ransomNote)
+    {
+        if(count[ch]==0)
         {
-            return true;
+            return false;
         }
-    
+
+        count[ch]--;
     }
-    return false;
-    }
+
+    return true;}
 };
