@@ -4,13 +4,12 @@ public:
       unordered_set<int> s(nums1.begin(),nums1.end());
       unordered_set<int> result;
 
-      for(int n: nums2){
-
+      for(int n:nums2)
+      {
         if(s.count(n))
         {
             result.insert(n);
         }
       }
-     return vector<int>(result.begin(),result.end());
-      }
+      return vector<int>(result.begin(),result.end());}
 };
