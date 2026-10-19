@@ -2,18 +2,12 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         
-        unordered_map<int,int> s;
-        int result;
+        int result=0;
 
-        for(int n:nums){
-                s[n]++;
+        for(int n: nums)
+        {
+            result ^= n;
         }
-        
-        for (const auto& [key, val] : s) {
-        if (val == 1) {
-            return key;
-        }
-    }
 
 
         return result;
