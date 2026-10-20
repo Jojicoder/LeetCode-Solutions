@@ -2,25 +2,19 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
 
-        int candidate = 0;
-        int count = 0;
+       map<int,int> mp;
 
-        for(int n : nums){
-            if(count == 0)
-            {
-                candidate = n;
-            }
-
-            if(n == candidate)
-            {
-                count++;
-            }else
-            {
-                count--;
-            }
-
+        for(int n : nums)
+        {
+            mp[n]++;
         }
 
-        return candidate;
+    auto max_it = std::max_element(
+    mp.begin(), mp.end(),
+    [](const auto& a, const auto& b) {
+        return a.second < b.second; // 「値(second)」の大きさを比較
+    });
+    return max_it->first;
     }
 };
+
