@@ -9,10 +9,11 @@ public:
             mp[n]++;
         }
 
-    auto max_it = std::max_element(
+    auto max_it = max_element(
     mp.begin(), mp.end(),
-    [](const auto& a, const auto& b) {
-        return a.second < b.second; // 「値(second)」の大きさを比較
+    [](const auto& a, const auto& b)
+    {
+        return a.second < b.second;
     });
     return max_it->first;
     }
