@@ -7,7 +7,7 @@ public:
         {
             if(std::ranges::find(nums,i) == nums.end() )
             {
-                ans = i;
+                return i;
             }
         }
 return ans;
