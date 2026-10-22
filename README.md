@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Bracket Sequences
@@ -172,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
