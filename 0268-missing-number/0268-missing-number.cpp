@@ -2,14 +2,15 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
 
-        for(int i =0; i <= nums.size();i++)
+       int total = 0;
+       int ans = 0;
+
+        for(int i =0; i < nums.size();i++)
         {
-            if(std::ranges::find(nums,i)==nums.end())
-            {
-                return i;
-            }
+            ans += i+1;
+            total += nums[i];
         }
 
-        return -1;
+        return ans - total;
     }   
 };
