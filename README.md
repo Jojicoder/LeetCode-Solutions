@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
