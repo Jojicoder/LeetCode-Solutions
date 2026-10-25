@@ -2,22 +2,21 @@ class Solution {
 public:
     bool isIsomorphic(string s, string t) {
 
-        
-    char ch1[256] = {0};
-        char ch2[256] = {0};
+        int ans1[256] = {0};
+        int ans2[256] = {0};
 
-        for(int i = 0; i < s.size();i++)
+        for(int i = 0 ;i < s.size();i++)
         {
-            if(ch1[s[i]] != ch2[t[i]])
+            if(ans1[s[i]] != ans2[t[i]])
             {
                 return false;
             }
-
-            ch1[s[i]]= i+1;
-            ch2[t[i]] = i+1;
+            ans1[s[i]] = i+1;
+            ans2[t[i]] = i+1;
         }
-
+        
         return true;
+        
     }
 
 };
