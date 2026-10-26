@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
