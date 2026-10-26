@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
 |  |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
