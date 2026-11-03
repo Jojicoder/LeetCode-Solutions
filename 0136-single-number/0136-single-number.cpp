@@ -1,13 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        
-     int result=0;
-     for(int n:nums)
-     {
-        result ^= n;
-     }
+      
+      int total =0;
+      for(int n:nums){
+        total ^=n;
+      }
 
-     return result;
-    }
+      return total;
+      }
 };
