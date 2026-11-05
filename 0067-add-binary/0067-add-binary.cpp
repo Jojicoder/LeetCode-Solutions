@@ -4,11 +4,11 @@ public:
         int i = a.size() -1;
         int j = b.size() -1;
         int carry = 0;
+        
         string result = "";
 
-        while(i >= 0 || j >= 0 || carry > 0)
+        while(i >= 0||j >= 0||carry >0)
         {
-
             int sum = carry;
 
             if(i >= 0)
@@ -23,15 +23,12 @@ public:
                 j--;
             }
 
-            int bit = sum %2;
-            carry = sum /2;
+            int bit = sum % 2;
+            carry = sum / 2;
 
-            result += (bit + '0');
+            result += (bit +'0');
         }
-
         reverse(result.begin(),result.end());
-
         return result;
-
     }
 };
