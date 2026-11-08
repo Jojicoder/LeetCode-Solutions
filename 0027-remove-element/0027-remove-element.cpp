@@ -3,7 +3,7 @@ public:
     int removeElement(vector<int>& nums, int val) {
       
       int write = 0;
-      for(int i = 0;i < nums.size();i++)
+      for(int i=0;i<nums.size();i++)
       {
         if(nums[i] != val)
         {
@@ -12,11 +12,10 @@ public:
         }
       }
 
-      while(write<nums.size())
+      while(write < nums.size())
       {
         nums.pop_back();
       }
 
-      return nums.size();
-    }
+      return nums.size();}
 };
