@@ -5,23 +5,21 @@ public:
        unordered_set<int> seen;
 
        while(n != 1){
-            if(seen.count(n))
-            {
-                return false;
-            }
-            seen.insert(n);
+        if(seen.contains(n))
+            return false;
 
-            int sum = 0;
+        seen.insert(n);
 
-            while(n >0)
-            {
-                int digit = n% 10;
-                sum += digit*digit;
-                n /= 10;
-            }
-
-            n = sum;
+        int sum =0;
+        while(n > 0)
+        {
+            int digit = n%10;
+            sum += digit * digit;
+            n /= 10;
+        }
+        n = sum;
        }
+
        return true;
     }
 };
