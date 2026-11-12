@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Jojikkkkk/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
