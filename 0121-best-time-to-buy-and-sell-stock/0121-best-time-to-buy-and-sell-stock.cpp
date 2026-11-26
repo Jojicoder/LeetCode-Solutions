@@ -7,17 +7,18 @@ public:
 
         for(int i = 1; i < prices.size();i++)
         {
+
             if(minPrice > prices[i])
             {
                 minPrice = prices[i];
             }
 
-            if(maxProfit < prices[i]-minPrice)
+            if(maxProfit < prices[i] - minPrice)
             {
                 maxProfit = prices[i] - minPrice;
             }
         }
-        return maxProfit;
+    return maxProfit;
     }
 
 };
